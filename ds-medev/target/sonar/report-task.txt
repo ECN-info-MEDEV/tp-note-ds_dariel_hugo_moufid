@@ -1,0 +1,7 @@
+organization=ecn-info-medev
+projectKey=ECN-info-MEDEV_tp-note-ds_dariel_hugo_moufid
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51948
+dashboardUrl=https://sonarcloud.io/dashboard?id=ECN-info-MEDEV_tp-note-ds_dariel_hugo_moufid
+ceTaskId=AY0ScR96aFitCcXULLef
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY0ScR96aFitCcXULLef
